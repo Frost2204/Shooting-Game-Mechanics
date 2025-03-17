@@ -7,7 +7,7 @@ This project is developed in Unreal Engine using Blueprints (Visual Scripting).
 🖼️ Preview
 Here are some GIFs showcasing key mechanics:
 
-🔹 ![Gameplay](https://imgur.com/a/h1Wktgt)
+🔹 ![Gameplay](https://i.imgur.com/354ghnE.gif)
 
 🛠️ Features
 ✔ Fully Blueprint-Based – No C++ required.
