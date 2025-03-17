@@ -9,6 +9,8 @@ Here are some GIFs showcasing key mechanics:
 
 🔹 ![Gameplay](https://i.imgur.com/354ghnE.gif)
 
+Full gameplaye video: https://youtu.be/SYc_LlyJUdc?si=4WAi3-SP3XHVNdbY
+
 🛠️ Features
 ✔ Fully Blueprint-Based – No C++ required.
 ✔ Custom Mechanics
